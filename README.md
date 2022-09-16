@@ -9,7 +9,7 @@
 5. Follow the instructions on the README.md file to complete exercises
 6. Open the app.js file to get started
 
-## Exercise 1: Minimum Number
+## Exercise 1: Minimum Number DONE
 
 - In the past, we created a selection statement inside a loop that counted from 1 to 100, and only printed out the odd numbers.
 - Your task is to write a function printOdds() that takes one parameter, count, and uses a loop and selection statement to count to the number passed in, printing out the odd numbers.
@@ -22,7 +22,7 @@
    - and then `console.log()` the odd value to the console
 4. BONUS: Now that you do not know exactly what number may be passed in as `count`, use an `if` statement to account for a negative `count` being passed in.
 
-## Exercise 2: Legal?
+## Exercise 2: Legal? DONE
 
 - Write a function that receives a name and age, and prints a greeting message to the console using the name.
 
